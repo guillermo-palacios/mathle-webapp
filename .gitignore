@@ -1,0 +1,26 @@
+# Archivos de build de Maven
+target/
+mathle/target/
+
+# Archivos JAR/WAR generados
+*.jar
+*.war
+
+# Archivos de registro y temporales
+*.log
+*.tmp
+
+# Archivos de IDE (IntelliJ, Eclipse, VSCode)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Archivos de Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local de Tomcat
+.metadata
